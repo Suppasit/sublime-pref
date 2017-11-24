@@ -14,7 +14,7 @@ $ git push -u origin master
 ## Apply the settings to other machines by using below git command:
 ```
 $ git init
-$ git remote add origin https://github.com/eswizardry/sublime-text-settings.git
+$ git remote add origin https://github.com/Suppasit/sublime-pref.git
 $ git fetch
 $ git reset --hard origin/master
 ```
