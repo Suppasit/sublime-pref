@@ -1,15 +1,14 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/base16-summerfruit-dark (SL).tmTheme",
-	"draw_white_space": "all",
+	"color_scheme": "Packages/Base16 Color Schemes/Themes/base16-material-darker.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
-	"font_size": 10,
+	"font_size": 11,
 	"ignored_packages":
 	[
 		"NeoVintageous",
 		"Six",
+		"SublimeLinter",
 		"Vintage",
-		"Vintageous",
-		"SublimeLinter"
+		"Vintageous"
 	],
 	"theme": "Agila.sublime-theme",
 	"trim_trailing_white_space_on_save": true
